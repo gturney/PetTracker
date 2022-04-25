@@ -10,6 +10,7 @@
           esp32 Dev Board =   Pet1          682343137     0x24, 0x6F, 0x28, 0xAB, 0xBA, 0xE0
       TTGO damaged Screen =   Finder1       682617761     0x24, 0x6F, 0x28, 0xAF, 0xEB, 0xA0
       TTGO broken Screen  =   Pet2          680951025     0x24, 0x6F, 0x28, 0x96, 0x7C, 0xF0
+      esp32 mini Dev Board =  NodeR2        533317941     9C:9C:1F:C9:C9:34
 */
 
 #include "painlessMesh.h"
